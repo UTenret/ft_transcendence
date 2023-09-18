@@ -9,3 +9,4 @@
 
 # Tools 
 -https://blog.ippon.fr/
+-https://wanago.io/2021/07/19/api-nestjs-verifying-phone-numbers-sending-sms-twilio/
