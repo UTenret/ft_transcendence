@@ -1,6 +1,7 @@
 # NestJs
 
--https://www.youtube.com/watch?v=GHTA143_b-s
+-https://www.youtube.com/watch?v=GHTA143_b-s  
+-https://www.passportjs.org/packages/
 
 # React
 
@@ -9,4 +10,5 @@
 
 # Tools 
 -https://blog.ippon.fr/  
--https://wanago.io/2021/07/19/api-nestjs-verifying-phone-numbers-sending-sms-twilio/
+-https://wanago.io/2021/07/19/api-nestjs-verifying-phone-numbers-sending-sms-twilio/  
+
